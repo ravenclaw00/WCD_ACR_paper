@@ -1,0 +1,3 @@
+verwendete Files und cluster-Reihenfolge 
+ verwendeter sig-Test: bootstrap mit  1000  Wiederholungen 
+
